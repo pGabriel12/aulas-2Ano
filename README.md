@@ -17,7 +17,10 @@
     3.  *colar*
 
 # Login no github
-
+1.  *clicar no botao sign in*
+2.  *digitar nome de usuario ou email*
+3.  *digitar senha*
+4.  *clicar em "Sign in"*
 
 # VsCode/Visual Studio Code ||  Codespace
   

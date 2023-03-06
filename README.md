@@ -12,8 +12,8 @@
   
 
 # Criar um repositorio
-  - Criar repositorio #1
-  - Criar repositorio #2
+  - Metodo #1
+  - Metodo #2
   
 # Git para salvar para ou copiar de um repositorio
   - Clone

@@ -10,6 +10,10 @@
   
   - Acessar Codespace ja existente
   
+# Extensoes VsCode \\ Codespace
+  - Live Server
+  
+  - Prettier
 
 # Criar um repositorio
   - Metodo #1

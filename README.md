@@ -1,45 +1,22 @@
-# Fazer login no site da [alura](https://cursos.alura.com.br/edutech)
-1.  *login com google*
-2.  *email*
-3.  *senha*
+# [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
 
-# Criar conta no github
-1.  *botao Sign up*
-2.  *email @escola*
-3.  *senha*
-4.  *nome de usuario*
-5.  *voce gostaria de receber atualizacoes e novidades no email?*
-6.  *verificacao de spam*
-7.  ***criar conta***
-8.  *digitar codigo*
-    1.  *acessar email*
-    2.  *copiar codigo*
-    3.  *colar*
+# Slides das aulas
 
-# Login no github
-1.  *clicar no botao sign in*
-2.  *digitar nome de usuario ou email*
-3.  *digitar senha*
-4.  *clicar em "Sign in"*
+## Aula 1
+## [Prototipo](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
 
-# VsCode/Visual Studio Code ||  Codespace
-  
-  - Criar
-  
-  - Acessar Codespace ja existente
+## Aula 2
+## [Criando conta no github e iniciando o projeto](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)
+    - O local dentro do GitHub utilizado para armazenar os projetos chama-se repositório.
+
+## Aula 3
+## [Finalizando o cabecalho](https://drive.google.com/drive/folders/1975j-qo88GbG7hX4n3FtKm1YTMlwaoVQ)
 
 
-# Extensoes VsCode \\ Codespace
-  - Live Server
-  
-  - Prettier
-
-
-# Criar um repositorio
-  - Metodo #1
-  - Metodo #2
-
-
-# Git para salvar para ou copiar de um repositorio
-  - Clone
-  - Commit
+# Esboço/Prototipo
+    -Protótipo de alta fidelidade
+        -Precisa de recursos gráficos para ser representado de forma muito similar ao que será o projeto.
+    -Protótipo modelo
+        -Um protótipo modelo possui um template que podemos seguir durante a criação de um projeto.
+    -Protótipo de baixa fidelidade
+        -Ao criarmos um esboço no papel, por possuirmos limitações para representar a ideia do projeto, usamos o termo prototipação de baixa fidelidade.

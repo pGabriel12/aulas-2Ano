@@ -4,8 +4,10 @@
 
 ## Aula 1
 ### [Prototipo](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
-- lista
-    Esboço/Prototipo
+- Tipos de prototipo
+  - Prototipo de alta fidelidade
+    - Precisa de recursos gráficos para ser representado de forma muito similar ao que será o projeto 
+
     - Protótipo de alta fidelidade
      - Precisa de recursos gráficos para ser representado de forma muito similar ao que será o projeto.
     - Protótipo modelo

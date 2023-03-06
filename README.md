@@ -7,9 +7,9 @@
 
 
 ## Aula 2 - [Criando conta no github e iniciando o projeto](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)
-### [Exercícios]()
+### [Exercícios](https://forms.gle/bqY8vgDganjfvvBE6)
 
 ## Aula 3 - [Finalizando o cabecalho](https://drive.google.com/drive/folders/1975j-qo88GbG7hX4n3FtKm1YTMlwaoVQ)
-### [Exercícios]()
+### [Exercícios](https://forms.gle/PWpfw4LFKrCEv5WKA)
 
 

@@ -1,8 +1,20 @@
 # Fazer login no site da [alura](https://cursos.alura.com.br/edutech)
-*login com google*
+1.  *login com google*
+2.  *email*
+3.  *senha*
 
 # Criar conta no github
-
+1.  *botao Sign up*
+2.  *email @escola*
+3.  *senha*
+4.  *nome de usuario*
+5.  *voce gostaria de receber atualizacoes e novidades no email?*
+6.  *verificacao de spam*
+7.  ***criar conta***
+8.  *digitar codigo*
+    - 1.  *acessar email*
+    - 2.  *copiar codigo*
+    - 3.  *colar*
 
 # Login no github
 

@@ -3,7 +3,7 @@
 # Slides das aulas
 
 ## Aula 1 - [Protótipos](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
-### [Exercícios]()
+### [Exercícios](https://forms.gle/VrnfXrQMVy5XYADs5)
 
 
 ## Aula 2 - [Criando conta no github e iniciando o projeto](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)

@@ -3,8 +3,8 @@
 # Slides das aulas
 
 ## Aula 1
-### [Prototipo](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
-- Tipos de prototipo
+### [Protótipos](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
+- Tipos de Protótipo
   1. Protótipo de alta fidelidade
      - Precisa de recursos gráficos para ser representado de forma muito similar ao que será o projeto 
   2. Protótipo de baixa fidelidade

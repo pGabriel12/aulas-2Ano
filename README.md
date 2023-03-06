@@ -12,9 +12,9 @@
 6.  *verificacao de spam*
 7.  ***criar conta***
 8.  *digitar codigo*
-    - 1.  *acessar email*
-    - 2.  *copiar codigo*
-    - 3.  *colar*
+    1.  *acessar email*
+    2.  *copiar codigo*
+    3.  *colar*
 
 # Login no github
 

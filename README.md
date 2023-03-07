@@ -2,6 +2,7 @@
 
 # Vs code / Visual Studio Code
 ***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***
+![Como Criar Codespace pelo repositorio](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
 
 # Slides das aulas
 

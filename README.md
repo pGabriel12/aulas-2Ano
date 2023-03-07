@@ -5,8 +5,8 @@
 ![Como Criar Codespace pelo repositorio](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
 
 ## Como Salvar Codespace / Vs Code
-1. aoaksd
-2. aiweoqjiw
+   1. aoaksd
+   2. aiweoqjiw
 
    1. ![git commit](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/gitCommit.png)
    2. ![mensagem](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/commitMessage.png)

@@ -4,7 +4,10 @@
 ***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***
 ![Como Criar Codespace pelo repositorio](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
 
-## Como Salvar Codespace / Vs Code 
+## Como Salvar Codespace / Vs Code
+1. aoaksd
+2. aiweoqjiw
+
    1. ![git commit](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/gitCommit.png)
    2. ![mensagem](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/commitMessage.png)
    3. ![git sync](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/gitSync.png)

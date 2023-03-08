@@ -1,6 +1,6 @@
 # [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
 # [Fazer login no github](https://github.com/)
-#***Os textos em azul sao links clicaveis***
+#  ***Os textos em azul sao links clicaveis***
 
 # Vs Code / Visual Studio Code
 ***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***

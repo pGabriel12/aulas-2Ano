@@ -4,6 +4,7 @@
 
 # [Fazer login no github](https://github.com/)
 ### ***TODO: CP List (ln:2-3)***
+### ***TODO: Inverter ordem com Slot da alura***
 
 #  ***OBS: Os textos em azul sao links clicaveis***
 

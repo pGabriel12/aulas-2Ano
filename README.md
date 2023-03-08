@@ -1,5 +1,10 @@
 # [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
+## Como fazer login
+## Como navegar
+
 # [Fazer login no github](https://github.com/)
+### ***TODO: CP List (ln:2-3)***
+
 #  ***Os textos em azul sao links clicaveis***
 
 # Vs Code / Visual Studio Code

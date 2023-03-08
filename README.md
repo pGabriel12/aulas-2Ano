@@ -5,7 +5,7 @@
 # [Fazer login no github](https://github.com/)
 ### ***TODO: CP List (ln:2-3)***
 
-#  ***Os textos em azul sao links clicaveis***
+#  ***OBS: Os textos em azul sao links clicaveis***
 
 # Vs Code / Visual Studio Code
 ***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***

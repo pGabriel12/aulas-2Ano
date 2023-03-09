@@ -13,10 +13,7 @@
 ![Como Criar Codespace pelo repositorio](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
 
 ## Como Salvar Codespace / Vs Code
-### ***TODO:*** (img) -> {pdf} 
-   1. ![git commit](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/gitCommit.png)
-   2. ![mensagem](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/commitMessage.png)
-   3. ![git sync](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/gitSync.png)
+   1. [Link para o passo a passo como salvar](https://drive.google.com/file/d/15g5K--rlwey8p2xOwlNe7BkaGISsJ0HQ/view?usp=share_link)
    
 # Slides das aulas
 

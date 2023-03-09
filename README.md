@@ -1,5 +1,7 @@
 # [Fazer login no github](https://github.com/)
-### ***TODO: CP List (ln:2-3)***
+## [Como fazer login]()
+## [Como navegar]()
+## [Como Criar conta]()
 ### ***TODO: Inverter ordem com Slot da alura***
 
 # [Fazer login no site da alura](https://cursos.alura.com.br/edutech)

@@ -2,7 +2,6 @@
 ## [Como fazer login]()
 ## [Como navegar]()
 ## [Como Criar conta]()
-### ***TODO: Inverter ordem com Slot da alura***
 
 # [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
 ## [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)

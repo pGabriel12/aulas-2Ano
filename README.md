@@ -30,5 +30,6 @@
 ### ***TODO:*** Break PDF in smaller pieces
 ### [Exercícios](https://forms.gle/PWpfw4LFKrCEv5WKA)
 
-# TODO:
-## Aula 4 - []()
+## Aula 4 - [Criando uma seção escola](https://drive.google.com/file/d/1KBBlQJrS36Zljj4xN9-UtGJoB5zt9XjI/view)
+### ***TODO:*** Break PDF in smaller pieces
+### [Exercícios]()

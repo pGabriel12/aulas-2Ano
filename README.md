@@ -1,11 +1,10 @@
-# [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
-## [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)
-## Como navegar
-
 # [Fazer login no github](https://github.com/)
 ### ***TODO: CP List (ln:2-3)***
 ### ***TODO: Inverter ordem com Slot da alura***
 
+# [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
+## [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)
+## Como navegar
 #  ***OBS: Os textos em azul sao links clicaveis***
 
 # Vs Code / Visual Studio Code

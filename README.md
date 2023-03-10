@@ -3,15 +3,15 @@
 ***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***
 
 #  [Github](https://github.com/)
-## Como navegar
-   - [Criar repositorio](https://drive.google.com/file/d/1uy5DU-LmW2gdQa_GAGwqqtjyPRRtrQW2/view?usp=share_link)
-   - Meus repositorios
-   - [Codespace](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
-## [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
+   - Como navegar
+     - [Criar repositorio](https://drive.google.com/file/d/1uy5DU-LmW2gdQa_GAGwqqtjyPRRtrQW2/view?usp=share_link)
+     - Meus repositorios
+     - [Codespace](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
+   - [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
 
-#  site da [alura](https://cursos.alura.com.br/edutech)
-## [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)
-## [Como navegar](https://drive.google.com/file/d/1RDTqoCB4xfAbFfww5T-3BM21gSdJogJC/view?usp=share_link)
+#  [alura](https://cursos.alura.com.br/edutech)
+   - [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)
+   - [Como navegar](https://drive.google.com/file/d/1RDTqoCB4xfAbFfww5T-3BM21gSdJogJC/view?usp=share_link)
 
 
 ## Como Salvar Codespace / Vs Code

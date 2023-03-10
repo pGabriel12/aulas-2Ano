@@ -1,4 +1,4 @@
-#  ***OBS: Os textos em azul sao links clicaveis***
+***OBS: Os textos em azul sao links clicaveis***
 ***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***
 
 #  [Github](https://github.com/)

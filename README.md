@@ -1,6 +1,9 @@
 # [Fazer login no github](https://github.com/)
 ## [Como fazer login]()
-## [Como navegar]()
+## Como navegar
+   - Criar repositorio
+   - Meus repositorios
+   - Codespace
 ## [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
 
 #  site da [alura](https://cursos.alura.com.br/edutech)

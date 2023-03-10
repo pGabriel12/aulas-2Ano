@@ -5,7 +5,7 @@
 #  [Github](https://github.com/)
    - Como navegar
      - [Criar repositorio](https://drive.google.com/file/d/1uy5DU-LmW2gdQa_GAGwqqtjyPRRtrQW2/view?usp=share_link)
-     - Meus repositorios
+     - [Meus repositorios](https://raw.githubusercontent.com/pGabriel12/aula-10032023/main/repositorios.png)
      - [Codespace](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
    - [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
 

@@ -15,7 +15,7 @@
 
 
 ## Como Salvar Codespace / Vs Code
-### [Link para o passo a passo como salvar](https://drive.google.com/file/d/15g5K--rlwey8p2xOwlNe7BkaGISsJ0HQ/view?usp=share_link)
+   - [commit/sync](https://drive.google.com/file/d/15g5K--rlwey8p2xOwlNe7BkaGISsJ0HQ/view?usp=share_link)
    
 # Aulas
 

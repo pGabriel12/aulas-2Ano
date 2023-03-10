@@ -21,16 +21,16 @@
 
   - Aula 1 - Criando um esboço do projeto
     - [Slides/Encaminhamentos](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)     
-    - [Exercícios](https://forms.gle/VrnfXrQMVy5XYADs5)
+    - [Exercícios](https://forms.gle/5wMvmVCX4dtTHYEH6)
 
    - Aula 2 - Criando conta no github e iniciando o projeto
      - [Slides/Encaminhamentos](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)
-     - [Exercícios](https://forms.gle/bqY8vgDganjfvvBE6)
+     - [Exercícios](https://forms.gle/1sXrAq6Ttk6U7UFM7)
 
    - Aula 3 - Finalizando o cabecalho
      - [Slides/Encaminhamentos](https://drive.google.com/file/d/1uO4XwQ8_PMoG848dhIgqpw4znIt2jTTS/view)
-     - [Exercícios](https://forms.gle/PWpfw4LFKrCEv5WKA)
+     - [Exercícios](https://forms.gle/yeep43SoTnXeYJNu5)
 
    - Aula 4 - Criando uma seção escola
      - [Slides/Encaminhamentos](https://drive.google.com/file/d/1KBBlQJrS36Zljj4xN9-UtGJoB5zt9XjI/view)
-     - [Exercícios]()
+     - [Exercícios](https://forms.gle/pqLxNj6XsTq3gdSv9)

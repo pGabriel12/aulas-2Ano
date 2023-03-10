@@ -1,11 +1,12 @@
 # [Fazer login no github](https://github.com/)
 ## [Como fazer login]()
 ## [Como navegar]()
-## [Como Criar conta]()
+## [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
 
-# [Fazer login no site da alura](https://cursos.alura.com.br/edutech)
+#  site da [alura](https://cursos.alura.com.br/edutech)
 ## [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)
 ## [Como navegar](https://drive.google.com/file/d/1RDTqoCB4xfAbFfww5T-3BM21gSdJogJC/view?usp=share_link)
+
 #  ***OBS: Os textos em azul sao links clicaveis***
 
 # Vs Code / Visual Studio Code

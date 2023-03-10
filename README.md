@@ -1,9 +1,9 @@
-# [Fazer login no github](https://github.com/)
+#  [Github](https://github.com/)
 ## [Como fazer login]()
 ## Como navegar
-   - Criar repositorio
-   - Meus repositorios
-   - Codespace
+###   - Criar repositorio
+###   - Meus repositorios
+###   - Codespace
 ## [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
 
 #  site da [alura](https://cursos.alura.com.br/edutech)
@@ -22,18 +22,13 @@
 # Slides das aulas
 
 ## Aula 1 - [Protótipos](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
-### ***TODO:*** Break PDF in smaller pieces
 ### [Exercícios](https://forms.gle/VrnfXrQMVy5XYADs5)
 
-
 ## Aula 2 - [Criando conta no github e iniciando o projeto](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)
-### ***TODO:*** Break PDF in smaller pieces
 ### [Exercícios](https://forms.gle/bqY8vgDganjfvvBE6)
 
 ## Aula 3 - [Finalizando o cabecalho](https://drive.google.com/file/d/1uO4XwQ8_PMoG848dhIgqpw4znIt2jTTS/view)
-### ***TODO:*** Break PDF in smaller pieces
 ### [Exercícios](https://forms.gle/PWpfw4LFKrCEv5WKA)
 
 ## Aula 4 - [Criando uma seção escola](https://drive.google.com/file/d/1KBBlQJrS36Zljj4xN9-UtGJoB5zt9XjI/view)
-### ***TODO:*** Break PDF in smaller pieces
 ### [Exercícios]()

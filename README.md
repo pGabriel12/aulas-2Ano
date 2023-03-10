@@ -1,20 +1,18 @@
+#  ***OBS: Os textos em azul sao links clicaveis***
+***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***
+
 #  [Github](https://github.com/)
 ## [Como fazer login]()
 ## Como navegar
    - Criar repositorio
    - Meus repositorios
-   - Codespace
+   - [Codespace](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
 ## [Como Criar conta](https://drive.google.com/file/d/1u16eBeGj8NLlox78OyEJNRpYsZ7UpKtN/view?usp=share_link)
 
 #  site da [alura](https://cursos.alura.com.br/edutech)
 ## [Como fazer login](https://drive.google.com/file/d/11IiLK2oKxbjfjXXiMsHl8O_BN9RUpovp/view?usp=share_link)
 ## [Como navegar](https://drive.google.com/file/d/1RDTqoCB4xfAbFfww5T-3BM21gSdJogJC/view?usp=share_link)
 
-#  ***OBS: Os textos em azul sao links clicaveis***
-
-# Vs Code / Visual Studio Code
-***O visual Studio Code na area de trabalho nao esta funcionando, usar [codespace](https://github.com/codespaces)***
-![Como Criar Codespace pelo repositorio](https://raw.githubusercontent.com/pGabriel12/aula-07032023/main/criarCodespace.png)
 
 ## Como Salvar Codespace / Vs Code
 ### [Link para o passo a passo como salvar](https://drive.google.com/file/d/15g5K--rlwey8p2xOwlNe7BkaGISsJ0HQ/view?usp=share_link)

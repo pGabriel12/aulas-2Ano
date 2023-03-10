@@ -17,16 +17,20 @@
 ## Como Salvar Codespace / Vs Code
 ### [Link para o passo a passo como salvar](https://drive.google.com/file/d/15g5K--rlwey8p2xOwlNe7BkaGISsJ0HQ/view?usp=share_link)
    
-# Slides das aulas
+# Aulas
 
-## Aula 1 - [Protótipos](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)
-### [Exercícios](https://forms.gle/VrnfXrQMVy5XYADs5)
+  - Aula 1 - Criando um esboço do projeto
+    - [Slides/Encaminhamentos](https://drive.google.com/file/d/1wFhd42B5CXg53cN53FJc6PoWclzjzdn9/view)     
+    - [Exercícios](https://forms.gle/VrnfXrQMVy5XYADs5)
 
-## Aula 2 - [Criando conta no github e iniciando o projeto](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)
-### [Exercícios](https://forms.gle/bqY8vgDganjfvvBE6)
+   - Aula 2 - Criando conta no github e iniciando o projeto
+    - [Slides/Encaminhamentos](https://drive.google.com/file/d/1ngwqvrcsWI4U-FgwNGkwkAtsciXz1aoo/view)
+    - [Exercícios](https://forms.gle/bqY8vgDganjfvvBE6)
 
-## Aula 3 - [Finalizando o cabecalho](https://drive.google.com/file/d/1uO4XwQ8_PMoG848dhIgqpw4znIt2jTTS/view)
-### [Exercícios](https://forms.gle/PWpfw4LFKrCEv5WKA)
+   - Aula 3 - Finalizando o cabecalho
+    - [Slides/Encaminhamentos](https://drive.google.com/file/d/1uO4XwQ8_PMoG848dhIgqpw4znIt2jTTS/view)
+    - [Exercícios](https://forms.gle/PWpfw4LFKrCEv5WKA)
 
-## Aula 4 - [Criando uma seção escola](https://drive.google.com/file/d/1KBBlQJrS36Zljj4xN9-UtGJoB5zt9XjI/view)
-### [Exercícios]()
+   - Aula 4 - Criando uma seção escola
+    - [Slides/Encaminhamentos](https://drive.google.com/file/d/1KBBlQJrS36Zljj4xN9-UtGJoB5zt9XjI/view)
+    - [Exercícios]()

@@ -34,3 +34,7 @@
    - Aula 4 - Criando uma seção escola
      - [Slides/Encaminhamentos](https://drive.google.com/file/d/1KBBlQJrS36Zljj4xN9-UtGJoB5zt9XjI/view)
      - [Exercícios](https://forms.gle/pqLxNj6XsTq3gdSv9)
+   
+   - Aula 5 - Criando uma seção Estudante
+     - [Slides/Encaminhamentos](https://drive.google.com/file/d/1LDCKtqBkoqzMVUtEV8c1SZP1JL__taZY/view)
+     - [Exercícios](https://forms.gle/nNMdA18nr6cgRQ878)
